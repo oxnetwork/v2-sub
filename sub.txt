@@ -1,0 +1,2 @@
+vless://0abac98e-b27f-4e89-814d-b3a29b5d5280@188.114.97.141:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=nzx.merlinnz.link&fp=randomized&type=ws&sni=nzx.merlinnz.link#DE+1+%F0%9F%87%A9%F0%9F%87%AA+%7C+IR
+vless://0abac98e-b27f-4e89-814d-b3a29b5d5280@188.114.97.141:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=nzx.merlinnz.link&type=ws#DE+1+%F0%9F%87%A9%F0%9F%87%AA+%7C+IR
